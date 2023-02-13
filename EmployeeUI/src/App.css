@@ -1,0 +1,46 @@
+
+
+.navbar {
+  background-color: #dae425;
+}
+
+.btn.btn-outline {
+  color: #ffffff;
+  font-weight: bolder;
+  font-size:larger;
+  background-color: #0f3d3d;
+  margin-right: 10px;
+}
+
+.table-head {
+  background-color: #e7f622;
+  color: #000000;
+}
+
+
+.table.table-hover.table-bordered {
+  max-width: 1350px;
+  min-height: auto;
+  margin: 10px auto;
+  padding: 100px;
+  background-color: #dfe1b7;
+  border-radius: 5px;
+
+}
+
+#headings {
+  text-align: center;
+  text-decoration: dotted;
+  font-weight: bold;
+  color: #090900;
+
+}
+
+.row.g-3.needs-validation
+{
+  background-color: #b4b91fcd;
+  border-radius: 10px;
+  border: 2px solid #000000;
+  padding:100px;
+  
+}
